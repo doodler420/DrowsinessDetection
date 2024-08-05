@@ -1,0 +1,10 @@
+cmake
+dlib
+imutils==0.5.2
+numpy
+opencv-python
+simpleaudio
+threading
+argparse
+collection-> deque
+c++ development kit from visual studio
